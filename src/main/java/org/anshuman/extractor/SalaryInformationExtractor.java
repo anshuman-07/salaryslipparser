@@ -1,6 +1,6 @@
-package org.example.extractor;
+package org.anshuman.extractor;
 
-import org.example.model.SalaryInformation;
+import org.anshuman.model.SalaryInformation;
 
 public class SalaryInformationExtractor {
 

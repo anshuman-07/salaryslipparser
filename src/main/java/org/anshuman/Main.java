@@ -1,19 +1,9 @@
-package org.example;
+package org.anshuman;
 
-import org.apache.pdfbox.pdmodel.PDDocument;
-import org.apache.pdfbox.text.PDFTextStripper;
-import net.sourceforge.tess4j.ITesseract;
-import net.sourceforge.tess4j.Tesseract;
-import org.example.model.SalaryInformation;
-import org.example.processor.SalarySlipProcessor;
+import org.anshuman.model.SalaryInformation;
+import org.anshuman.processor.SalarySlipProcessor;
 
-import javax.imageio.ImageIO;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class Main {
 

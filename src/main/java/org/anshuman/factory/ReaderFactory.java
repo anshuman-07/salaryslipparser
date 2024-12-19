@@ -1,8 +1,8 @@
-package org.example.factory;
+package org.anshuman.factory;
 
-import org.example.reader.FileReader;
-import org.example.reader.ImageReader;
-import org.example.reader.PdfReader;
+import org.anshuman.reader.FileReader;
+import org.anshuman.reader.ImageReader;
+import org.anshuman.reader.PdfReader;
 
 
 public class ReaderFactory {

@@ -1,4 +1,4 @@
-package org.example.reader;
+package org.anshuman.reader;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
